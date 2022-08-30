@@ -1,0 +1,7 @@
+Todos los archivos excel son generados por el programa Java excepto el archivo informe_de_los_resultados.xlsx.
+
+El archivo informe_de_los_resultados.xlsx recoge datos del archivo results.csv a través de una "conexión" de Excel y muestra valores estadísticos interesantes a partir de ellos.
+
+Si una nueva versión de results.csv ha sido generada, para "refrescar" o "re-sincronizar" los datos recogidos por informe_de_los_resultados.xlsx simplemente hay que ir en el menú superior, a la sección Data y hacer click en el botón "Refresh All" (ó Ctrl+Alt+F5).
+
+Todos los archivos excel se encuentran dentro del proyecto Java por simplicidad.
